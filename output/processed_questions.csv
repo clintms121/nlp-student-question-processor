@@ -1,0 +1,361 @@
+id,category,question,cleaned,tokens,keywords
+1,housing_dining,How do I find out who my resident assistant is?,how do i find out who my resident assistant is,how do i find out who my resident assistant is,find resident assistant
+2,housing_dining,I lost my room key. What do I do?,i lost my room key what do i do,i lost my room key what do i do,lost room key
+3,admissions,How do I apply to Rogers State University?,how do i apply to rogers state university,how do i apply to rogers state university,apply rogers state university
+4,academic_advising,What is academic probation and how do I get off it?,what is academic probation and how do i get off it,what is academic probation and how do i get off it,academic probation
+5,campus_life,How can online students stay connected to campus life?,how can online students stay connected to campus life,how can online students stay connected to campus life,online students stay connected campus life
+6,parking_safety,Can I park in faculty spaces after 5 pm?,can i park in faculty spaces after 5 pm,can i park in faculty spaces after 5 pm,park faculty spaces 5 pm
+7,career_services,When should I start looking for summer internships?,when should i start looking for summer internships,when should i start looking for summer internships,start looking summer internships
+8,registration,How do I see my class schedule with room numbers?,how do i see my class schedule with room numbers,how do i see my class schedule with room numbers,see class schedule room numbers
+9,career_services,Can I meet with a career counselor online?,can i meet with a career counselor online,can i meet with a career counselor online,meet career counselor online
+10,admissions,Can I still be admitted if my high school GPA is below the requirement?,can i still be admitted if my high school gpa is below the requirement,can i still be admitted if my high school gpa is below the requirement,still admitted high school gpa below requirement
+11,technology_support,"my mic doesnt work in my online class meeting, how do i fix it",my mic doesnt work in my online class meeting how do i fix it,my mic doesnt work in my online class meeting how do i fix it,mic work online class meeting fix
+12,housing_dining,When is move-in day for the fall semester?,when is move in day for the fall semester,when is move in day for the fall semester,move day fall semester
+13,admissions,What is concurrent enrollment and how do high school students apply?,what is concurrent enrollment and how do high school students apply,what is concurrent enrollment and how do high school students apply,concurrent enrollment high school students apply
+14,technology_support,Can I get Microsoft Office for free as an RSU student?,can i get microsoft office for free as an rsu student,can i get microsoft office for free as an rsu student,microsoft office free rsu student
+15,campus_life,How do I try out for a sports team?,how do i try out for a sports team,how do i try out for a sports team,try sports team
+16,academic_advising,Am I on track to graduate in four years?,am i on track to graduate in four years,am i on track to graduate in four years,track graduate four years
+17,campus_life,Is there a gaming or esports club?,is there a gaming or esports club,is there a gaming or esports club,gaming esports club
+18,admissions,Do I have to attend new student orientation?,do i have to attend new student orientation,do i have to attend new student orientation,attend new student orientation
+19,career_services,Which employers hire RSU computer science graduates?,which employers hire rsu computer science graduates,which employers hire rsu computer science graduates,employers hire rsu computer science graduates
+20,admissions,How do I schedule a campus tour?,how do i schedule a campus tour,how do i schedule a campus tour,schedule campus tour
+21,technology_support,Which web browser works best for online classes?,which web browser works best for online classes,which web browser works best for online classes,web browser works best online classes
+22,academic_advising,What's the difference between a BS and a BAS degree?,whats the difference between a bs and a bas degree,whats the difference between a bs and a bas degree,difference between bs bas degree
+23,academic_advising,How do I petition for a course substitution?,how do i petition for a course substitution,how do i petition for a course substitution,petition course substitution
+24,campus_life,When is the next Hillcats home basketball game?,when is the next hillcats home basketball game,when is the next hillcats home basketball game,next hillcats home basketball game
+25,admissions,How do I request a transcript evaluation as a transfer student?,how do i request a transcript evaluation as a transfer student,how do i request a transcript evaluation as a transfer student,request transcript evaluation transfer student
+26,campus_life,When is the Oklahoma Military Academy Museum open?,when is the oklahoma military academy museum open,when is the oklahoma military academy museum open,oklahoma military academy museum open
+27,academic_advising,Can I get college credit for my work experience?,can i get college credit for my work experience,can i get college credit for my work experience,college credit work experience
+28,library_tutoring,How do I renew a library book online?,how do i renew a library book online,how do i renew a library book online,renew library book online
+29,campus_life,Is there a fitness center students can use?,is there a fitness center students can use,is there a fitness center students can use,fitness center students use
+30,library_tutoring,What are the tutoring center's hours during finals week?,what are the tutoring centers hours during finals week,what are the tutoring centers hours during finals week,tutoring centers hours finals week
+31,health_wellness,Is there support for students dealing with grief?,is there support for students dealing with grief,is there support for students dealing with grief,support students dealing grief
+32,registration,What is the last day to drop a class without getting a W?,what is the last day to drop a class without getting a w,what is the last day to drop a class without getting a w,last day drop class without getting w
+33,housing_dining,Is laundry included with campus housing?,is laundry included with campus housing,is laundry included with campus housing,laundry included campus housing
+34,housing_dining,Can I choose my roommate?,can i choose my roommate,can i choose my roommate,choose roommate
+35,library_tutoring,Can I apply to work as a peer tutor?,can i apply to work as a peer tutor,can i apply to work as a peer tutor,apply work peer tutor
+36,parking_safety,My parking permit fell off my windshield. Can I get a new one?,my parking permit fell off my windshield can i get a new one,my parking permit fell off my windshield can i get a new one,parking permit fell windshield new one
+37,career_services,Does RSU help with job placement after graduation?,does rsu help with job placement after graduation,does rsu help with job placement after graduation,rsu help job placement graduation
+38,financial_aid,Does RSU offer any scholarships for transfer students?,does rsu offer any scholarships for transfer students,does rsu offer any scholarships for transfer students,rsu offer scholarships transfer students
+39,technology_support,The projector in my classroom isn't working. Who do I call?,the projector in my classroom isnt working who do i call,the projector in my classroom isnt working who do i call,projector classroom working call
+40,campus_life,How do I get my club's event on the campus calendar?,how do i get my clubs event on the campus calendar,how do i get my clubs event on the campus calendar,clubs event campus calendar
+41,parking_safety,Where are the bike racks on campus?,where are the bike racks on campus,where are the bike racks on campus,bike racks campus
+42,housing_dining,Are pets allowed in campus housing?,are pets allowed in campus housing,are pets allowed in campus housing,pets allowed campus housing
+43,registration,How do I enroll in a second 8-week course?,how do i enroll in a second 8 week course,how do i enroll in a second 8 week course,enroll second 8 week course
+44,parking_safety,Is there public transportation to campus?,is there public transportation to campus,is there public transportation to campus,public transportation campus
+45,campus_life,How do I get tickets to the RSU theatre productions?,how do i get tickets to the rsu theatre productions,how do i get tickets to the rsu theatre productions,tickets rsu theatre productions
+46,financial_aid,I have unexpected medical bills this year. Can I request more aid?,i have unexpected medical bills this year can i request more aid,i have unexpected medical bills this year can i request more aid,unexpected medical bills year request more aid
+47,academic_advising,How do I change my major?,how do i change my major,how do i change my major,change major
+48,billing_payments,How do I pay my tuition bill online?,how do i pay my tuition bill online,how do i pay my tuition bill online,pay tuition bill online
+49,academic_advising,I want to switch from computer science to business information technology. Will my credits count?,i want to switch from computer science to business information technology will my credits count,i want to switch from computer science to business information technology will my credits count,want switch computer science business information technology credits count
+50,registration,Can I take more than 18 credit hours in one semester?,can i take more than 18 credit hours in one semester,can i take more than 18 credit hours in one semester,take more 18 credit hours one semester
+51,library_tutoring,Does the library have a scanner I can use?,does the library have a scanner i can use,does the library have a scanner i can use,library scanner use
+52,technology_support,Why can't I see one of my courses in my online classes list?,why cant i see one of my courses in my online classes list,why cant i see one of my courses in my online classes list,cant see one courses online classes list
+53,library_tutoring,How do I cite sources in APA format?,how do i cite sources in apa format,how do i cite sources in apa format,cite sources apa format
+54,technology_support,Does RSU loan laptops to students?,does rsu loan laptops to students,does rsu loan laptops to students,rsu loan laptops students
+55,admissions,Is there an application fee to apply to RSU?,is there an application fee to apply to rsu,is there an application fee to apply to rsu,application fee apply rsu
+56,financial_aid,I lost my aid because of SAP. How do I file an appeal?,i lost my aid because of sap how do i file an appeal,i lost my aid because of sap how do i file an appeal,lost aid because sap file appeal
+57,campus_life,How do I get involved with student government?,how do i get involved with student government,how do i get involved with student government,involved student government
+58,technology_support,My account got locked after too many login attempts.,my account got locked after too many login attempts,my account got locked after too many login attempts,account got locked too many login attempts
+59,housing_dining,Can I live off campus as a freshman?,can i live off campus as a freshman,can i live off campus as a freshman,live campus freshman
+60,campus_life,Is there a Native American student association?,is there a native american student association,is there a native american student association,native american student association
+61,housing_dining,Can dining services accommodate a food allergy?,can dining services accommodate a food allergy,can dining services accommodate a food allergy,dining services accommodate food allergy
+62,admissions,How do I send my high school transcript to RSU?,how do i send my high school transcript to rsu,how do i send my high school transcript to rsu,send high school transcript rsu
+63,career_services,how do i explain a gap in my work history on my resume,how do i explain a gap in my work history on my resume,how do i explain a gap in my work history on my resume,explain gap work history resume
+64,health_wellness,can i bring my service animal to class,can i bring my service animal to class,can i bring my service animal to class,bring service animal class
+65,technology_support,How do I set up multi-factor authentication on my student account?,how do i set up multi factor authentication on my student account,how do i set up multi factor authentication on my student account,set multi factor authentication student account
+66,technology_support,I'm not receiving my two-factor verification codes.,im not receiving my two factor verification codes,im not receiving my two factor verification codes,receiving two factor verification codes
+67,housing_dining,Can I stay in campus housing over winter break?,can i stay in campus housing over winter break,can i stay in campus housing over winter break,stay campus housing over winter break
+68,registration,How many credit hours do I need to be considered full-time?,how many credit hours do i need to be considered full time,how many credit hours do i need to be considered full time,many credit hours considered full time
+69,admissions,How do I apply to the nursing program?,how do i apply to the nursing program,how do i apply to the nursing program,apply nursing program
+70,financial_aid,How do I use my GI Bill benefits at RSU?,how do i use my gi bill benefits at rsu,how do i use my gi bill benefits at rsu,use gi bill benefits rsu
+71,parking_safety,How will I know if classes are cancelled for bad weather?,how will i know if classes are cancelled for bad weather,how will i know if classes are cancelled for bad weather,know classes cancelled bad weather
+72,campus_life,How do I find out about homecoming events?,how do i find out about homecoming events,how do i find out about homecoming events,find homecoming events
+73,health_wellness,Where can I get a flu shot?,where can i get a flu shot,where can i get a flu shot,flu shot
+74,library_tutoring,Does the library have quiet study areas?,does the library have quiet study areas,does the library have quiet study areas,library quiet study areas
+75,billing_payments,Can I get an extension on my payment due date?,can i get an extension on my payment due date,can i get an extension on my payment due date,extension payment due date
+76,parking_safety,Is there accessible parking near the classroom buildings?,is there accessible parking near the classroom buildings,is there accessible parking near the classroom buildings,accessible parking near classroom buildings
+77,career_services,Are there networking events with local employers?,are there networking events with local employers,are there networking events with local employers,networking events local employers
+78,parking_safety,Where is the lost and found?,where is the lost and found,where is the lost and found,lost found
+79,parking_safety,Do I need a different parking permit for the Bartlesville campus?,do i need a different parking permit for the bartlesville campus,do i need a different parking permit for the bartlesville campus,different parking permit bartlesville campus
+80,library_tutoring,How do I request a book through interlibrary loan?,how do i request a book through interlibrary loan,how do i request a book through interlibrary loan,request book through interlibrary loan
+81,admissions,How is my residency decided for in-state tuition?,how is my residency decided for in state tuition,how is my residency decided for in state tuition,residency decided state tuition
+82,library_tutoring,Can I reserve a study room in the library?,can i reserve a study room in the library,can i reserve a study room in the library,reserve study room library
+83,academic_advising,What is the academic forgiveness policy?,what is the academic forgiveness policy,what is the academic forgiveness policy,academic forgiveness policy
+84,career_services,What should I wear to the career fair?,what should i wear to the career fair,what should i wear to the career fair,wear career fair
+85,housing_dining,Are the student apartments furnished?,are the student apartments furnished,are the student apartments furnished,student apartments furnished
+86,billing_payments,Does RSU offer a payment plan?,does rsu offer a payment plan,does rsu offer a payment plan,rsu offer payment plan
+87,academic_advising,How do I find out who my academic advisor is?,how do i find out who my academic advisor is,how do i find out who my academic advisor is,find academic advisor
+88,housing_dining,What items are not allowed in the residence hall?,what items are not allowed in the residence hall,what items are not allowed in the residence hall,items allowed residence hall
+89,financial_aid,How do I accept or decline my student loans?,how do i accept or decline my student loans,how do i accept or decline my student loans,accept decline student loans
+90,billing_payments,Do online students pay the same tuition as on-campus students?,do online students pay the same tuition as on campus students,do online students pay the same tuition as on campus students,online students pay same tuition campus students
+91,technology_support,How do I print from a campus computer?,how do i print from a campus computer,how do i print from a campus computer,print campus computer
+92,campus_life,What events are happening on campus this week?,what events are happening on campus this week,what events are happening on campus this week,events happening campus week
+93,admissions,Is there a special admissions process for military veterans?,is there a special admissions process for military veterans,is there a special admissions process for military veterans,special admissions process military veterans
+94,health_wellness,Can I get help managing test anxiety?,can i get help managing test anxiety,can i get help managing test anxiety,help managing test anxiety
+95,technology_support,My laptop won't connect to the Wi-Fi in my residence hall.,my laptop wont connect to the wi fi in my residence hall,my laptop wont connect to the wi fi in my residence hall,laptop wont connect wi fi residence hall
+96,library_tutoring,does the library have practice materials for the GRE,does the library have practice materials for the gre,does the library have practice materials for the gre,library practice materials gre
+97,financial_aid,What is Satisfactory Academic Progress and how do I stay eligible?,what is satisfactory academic progress and how do i stay eligible,what is satisfactory academic progress and how do i stay eligible,satisfactory academic progress stay eligible
+98,library_tutoring,How long can I keep a library book?,how long can i keep a library book,how long can i keep a library book,long keep library book
+99,billing_payments,Where is the bursar's office located?,where is the bursars office located,where is the bursars office located,bursars office located
+100,parking_safety,Where is visitor parking?,where is visitor parking,where is visitor parking,visitor parking
+101,parking_safety,How do I report a safety concern on campus?,how do i report a safety concern on campus,how do i report a safety concern on campus,report safety concern campus
+102,billing_payments,Why do I still have a balance after my financial aid paid?,why do i still have a balance after my financial aid paid,why do i still have a balance after my financial aid paid,still balance financial aid paid
+103,billing_payments,Is my housing charged on the same bill as tuition?,is my housing charged on the same bill as tuition,is my housing charged on the same bill as tuition,housing charged same bill tuition
+104,campus_life,Can students visit the nature preserve?,can students visit the nature preserve,can students visit the nature preserve,students visit nature preserve
+105,campus_life,How do I reserve a room for a club meeting?,how do i reserve a room for a club meeting,how do i reserve a room for a club meeting,reserve room club meeting
+106,admissions,Is there a separate application for graduate programs?,is there a separate application for graduate programs,is there a separate application for graduate programs,separate application graduate programs
+107,billing_payments,What fees are included on my bill?,what fees are included on my bill,what fees are included on my bill,fees included bill
+108,registration,When does enrollment open for the spring semester?,when does enrollment open for the spring semester,when does enrollment open for the spring semester,enrollment open spring semester
+109,health_wellness,Is there a food pantry on campus?,is there a food pantry on campus,is there a food pantry on campus,food pantry campus
+110,housing_dining,What are the dining hall hours?,what are the dining hall hours,what are the dining hall hours,dining hall hours
+111,registration,How do I audit a class instead of taking it for credit?,how do i audit a class instead of taking it for credit,how do i audit a class instead of taking it for credit,audit class instead taking credit
+112,career_services,Are internships usually paid?,are internships usually paid,are internships usually paid,internships usually paid
+113,campus_life,What is there to do on campus on the weekends?,what is there to do on campus on the weekends,what is there to do on campus on the weekends,campus weekends
+114,financial_aid,How do I apply for RSU Foundation scholarships?,how do i apply for rsu foundation scholarships,how do i apply for rsu foundation scholarships,apply rsu foundation scholarships
+115,parking_safety,My car won't start in the campus parking lot. Can someone help?,my car wont start in the campus parking lot can someone help,my car wont start in the campus parking lot can someone help,car wont start campus parking lot someone help
+116,academic_advising,Can I take a class at another college and transfer it back to RSU?,can i take a class at another college and transfer it back to rsu,can i take a class at another college and transfer it back to rsu,take class another college transfer back rsu
+117,career_services,How do I set up a good LinkedIn profile?,how do i set up a good linkedin profile,how do i set up a good linkedin profile,set good linkedin profile
+118,campus_life,Are there fraternities or sororities at RSU?,are there fraternities or sororities at rsu,are there fraternities or sororities at rsu,fraternities sororities rsu
+119,financial_aid,What scholarships are available for incoming freshmen at RSU?,what scholarships are available for incoming freshmen at rsu,what scholarships are available for incoming freshmen at rsu,scholarships available incoming freshmen rsu
+120,admissions,Does RSU require the ACT or SAT for admission?,does rsu require the act or sat for admission,does rsu require the act or sat for admission,rsu require act sat admission
+121,career_services,How do I find remote jobs as an online student?,how do i find remote jobs as an online student,how do i find remote jobs as an online student,find remote jobs online student
+122,registration,Why can't I enroll in a 3000-level course yet?,why cant i enroll in a 3000 level course yet,why cant i enroll in a 3000 level course yet,cant enroll 3000 level course yet
+123,career_services,Can I get a professional headshot taken on campus?,can i get a professional headshot taken on campus,can i get a professional headshot taken on campus,professional headshot taken campus
+124,housing_dining,Are there vegetarian options in the dining hall?,are there vegetarian options in the dining hall,are there vegetarian options in the dining hall,vegetarian options dining hall
+125,academic_advising,Do I have to meet with my advisor every semester?,do i have to meet with my advisor every semester,do i have to meet with my advisor every semester,meet advisor every semester
+126,registration,how do i drop a class online,how do i drop a class online,how do i drop a class online,drop class online
+127,housing_dining,What housing options are available on the Claremore campus?,what housing options are available on the claremore campus,what housing options are available on the claremore campus,housing options available claremore campus
+128,campus_life,What student organizations can I join at RSU?,what student organizations can i join at rsu,what student organizations can i join at rsu,student organizations join rsu
+129,financial_aid,What's the difference between a subsidized and unsubsidized loan?,whats the difference between a subsidized and unsubsidized loan,whats the difference between a subsidized and unsubsidized loan,difference between subsidized unsubsidized loan
+130,registration,What's the difference between dropping and withdrawing from a class?,whats the difference between dropping and withdrawing from a class,whats the difference between dropping and withdrawing from a class,difference between dropping withdrawing class
+131,admissions,Can I apply to a fully online degree program?,can i apply to a fully online degree program,can i apply to a fully online degree program,apply fully online degree program
+132,billing_payments,Can I pay my tuition with a credit card?,can i pay my tuition with a credit card,can i pay my tuition with a credit card,pay tuition credit card
+133,technology_support,What is my RSU username?,what is my rsu username,what is my rsu username,rsu username
+134,housing_dining,Is there student housing at the Bartlesville or Pryor campuses?,is there student housing at the bartlesville or pryor campuses,is there student housing at the bartlesville or pryor campuses,student housing bartlesville pryor campuses
+135,library_tutoring,What are the library hours?,what are the library hours,what are the library hours,library hours
+136,library_tutoring,Where is the writing center?,where is the writing center,where is the writing center,writing center
+137,housing_dining,where can i get food on campus late at night,where can i get food on campus late at night,where can i get food on campus late at night,food campus late night
+138,parking_safety,Where do I go to get my ID photo taken?,where do i go to get my id photo taken,where do i go to get my id photo taken,id photo taken
+139,technology_support,I forgot my MyRSU password. How do I reset it?,i forgot my myrsu password how do i reset it,i forgot my myrsu password how do i reset it,forgot myrsu password reset
+140,billing_payments,What happens if I don't pay my balance by the due date?,what happens if i dont pay my balance by the due date,what happens if i dont pay my balance by the due date,happens pay balance due date
+141,billing_payments,I accidentally paid twice. How do I get my money back?,i accidentally paid twice how do i get my money back,i accidentally paid twice how do i get my money back,accidentally paid twice money back
+142,technology_support,How do I change my MyRSU password?,how do i change my myrsu password,how do i change my myrsu password,change myrsu password
+143,financial_aid,Does dropping a class affect my financial aid?,does dropping a class affect my financial aid,does dropping a class affect my financial aid,dropping class affect financial aid
+144,housing_dining,Can I change my meal plan in the middle of the semester?,can i change my meal plan in the middle of the semester,can i change my meal plan in the middle of the semester,change meal plan middle semester
+145,billing_payments,can i mail a check to pay my bill,can i mail a check to pay my bill,can i mail a check to pay my bill,mail check pay bill
+146,health_wellness,I'm having trouble sleeping and keeping up with classes. Is there help?,im having trouble sleeping and keeping up with classes is there help,im having trouble sleeping and keeping up with classes is there help,having trouble sleeping keeping classes help
+147,financial_aid,Is there a deadline to apply for institutional scholarships?,is there a deadline to apply for institutional scholarships,is there a deadline to apply for institutional scholarships,deadline apply institutional scholarships
+148,financial_aid,What is RSU's school code for the FAFSA?,what is rsus school code for the fafsa,what is rsus school code for the fafsa,rsus school code fafsa
+149,registration,Is there a limit on how many times I can retake a course?,is there a limit on how many times i can retake a course,is there a limit on how many times i can retake a course,limit many times retake course
+150,registration,What does it mean when a class is cross-listed?,what does it mean when a class is cross listed,what does it mean when a class is cross listed,mean class cross listed
+151,library_tutoring,Are there study groups for statistics?,are there study groups for statistics,are there study groups for statistics,study groups statistics
+152,career_services,Can career services help me write a cover letter?,can career services help me write a cover letter,can career services help me write a cover letter,career services help write cover letter
+153,financial_aid,I was selected for verification. What documents do I need to submit?,i was selected for verification what documents do i need to submit,i was selected for verification what documents do i need to submit,selected verification documents submit
+154,technology_support,Can I still access my online course materials after the semester ends?,can i still access my online course materials after the semester ends,can i still access my online course materials after the semester ends,still access online course materials semester ends
+155,campus_life,are there any free events this friday,are there any free events this friday,are there any free events this friday,free events friday
+156,health_wellness,How do I renew my accommodation letter each semester?,how do i renew my accommodation letter each semester,how do i renew my accommodation letter each semester,renew accommodation letter each semester
+157,career_services,Can alumni still use career services?,can alumni still use career services,can alumni still use career services,alumni still use career services
+158,registration,How do I register for classes in MyRSU?,how do i register for classes in myrsu,how do i register for classes in myrsu,register classes myrsu
+159,admissions,Can I visit the Pryor campus before I apply?,can i visit the pryor campus before i apply,can i visit the pryor campus before i apply,visit pryor campus apply
+160,billing_payments,Is there a late payment fee?,is there a late payment fee,is there a late payment fee,late payment fee
+161,parking_safety,What should I do during a tornado warning on campus?,what should i do during a tornado warning on campus,what should i do during a tornado warning on campus,tornado warning campus
+162,academic_advising,Does RSU offer my bachelor's degree fully online?,does rsu offer my bachelors degree fully online,does rsu offer my bachelors degree fully online,rsu offer bachelors degree fully online
+163,admissions,I just got admitted. What are my next steps?,i just got admitted what are my next steps,i just got admitted what are my next steps,just got admitted next steps
+164,career_services,How do I list volunteer work on my resume?,how do i list volunteer work on my resume,how do i list volunteer work on my resume,list volunteer work resume
+165,library_tutoring,Does the Bartlesville campus have a library?,does the bartlesville campus have a library,does the bartlesville campus have a library,bartlesville campus library
+166,academic_advising,Can I double major at RSU?,can i double major at rsu,can i double major at rsu,double major rsu
+167,registration,Can I still enroll if I missed the registration deadline?,can i still enroll if i missed the registration deadline,can i still enroll if i missed the registration deadline,still enroll missed registration deadline
+168,parking_safety,Where can students park on the Claremore campus?,where can students park on the claremore campus,where can students park on the claremore campus,students park claremore campus
+169,academic_advising,When should I take my capstone course?,when should i take my capstone course,when should i take my capstone course,take capstone course
+170,library_tutoring,Can I print in the library?,can i print in the library,can i print in the library,print library
+171,campus_life,How do I start a new student club?,how do i start a new student club,how do i start a new student club,start new student club
+172,registration,What does a prerequisite error mean when I try to enroll?,what does a prerequisite error mean when i try to enroll,what does a prerequisite error mean when i try to enroll,prerequisite error mean try enroll
+173,health_wellness,Is there a nurse on campus?,is there a nurse on campus,is there a nurse on campus,nurse campus
+174,billing_payments,When is my tuition payment due?,when is my tuition payment due,when is my tuition payment due,tuition payment due
+175,housing_dining,Can I have overnight guests in my room?,can i have overnight guests in my room,can i have overnight guests in my room,overnight guests room
+176,career_services,How do I negotiate a job offer?,how do i negotiate a job offer,how do i negotiate a job offer,negotiate job offer
+177,registration,I have a hold on my account and can't enroll. What do I do?,i have a hold on my account and cant enroll what do i do,i have a hold on my account and cant enroll what do i do,hold account cant enroll
+178,health_wellness,Does RSU offer telehealth counseling for online students?,does rsu offer telehealth counseling for online students,does rsu offer telehealth counseling for online students,rsu offer telehealth counseling online students
+179,financial_aid,What happens to my scholarship if my GPA drops below the requirement?,what happens to my scholarship if my gpa drops below the requirement,what happens to my scholarship if my gpa drops below the requirement,happens scholarship gpa drops below requirement
+180,billing_payments,How much is tuition per credit hour?,how much is tuition per credit hour,how much is tuition per credit hour,much tuition per credit hour
+181,financial_aid,Can someone explain what my financial aid award letter means?,can someone explain what my financial aid award letter means,can someone explain what my financial aid award letter means,someone explain financial aid award letter means
+182,financial_aid,Can I receive financial aid if I'm only enrolled part-time?,can i receive financial aid if im only enrolled part time,can i receive financial aid if im only enrolled part time,receive financial aid only enrolled part time
+183,billing_payments,How much more do out-of-state students pay?,how much more do out of state students pay,how much more do out of state students pay,much more state students pay
+184,parking_safety,Someone hit my car in the parking lot. What should I do?,someone hit my car in the parking lot what should i do,someone hit my car in the parking lot what should i do,someone hit car parking lot
+185,financial_aid,Am I eligible for Oklahoma's Promise as an RSU student?,am i eligible for oklahomas promise as an rsu student,am i eligible for oklahomas promise as an rsu student,eligible oklahomas promise rsu student
+186,technology_support,How do I log in to my RSU student email?,how do i log in to my rsu student email,how do i log in to my rsu student email,log rsu student email
+187,technology_support,How do I install the software required for my programming class?,how do i install the software required for my programming class,how do i install the software required for my programming class,install software required programming class
+188,admissions,What ACT score do I need to get into RSU?,what act score do i need to get into rsu,what act score do i need to get into rsu,act score rsu
+189,health_wellness,Who do I contact if I'm worried about a friend?,who do i contact if im worried about a friend,who do i contact if im worried about a friend,contact worried friend
+190,financial_aid,How do I check the status of my financial aid in MyRSU?,how do i check the status of my financial aid in myrsu,how do i check the status of my financial aid in myrsu,check status financial aid myrsu
+191,library_tutoring,Can a librarian help me find sources for my research paper?,can a librarian help me find sources for my research paper,can a librarian help me find sources for my research paper,librarian help find sources research paper
+192,technology_support,How do I submit an IT support ticket?,how do i submit an it support ticket,how do i submit an it support ticket,submit support ticket
+193,housing_dining,How much is the housing deposit?,how much is the housing deposit,how much is the housing deposit,much housing deposit
+194,health_wellness,How do I request accommodations for a disability?,how do i request accommodations for a disability,how do i request accommodations for a disability,request accommodations disability
+195,parking_safety,Are campus buildings locked at night?,are campus buildings locked at night,are campus buildings locked at night,campus buildings locked night
+196,health_wellness,What documentation do I need for testing accommodations?,what documentation do i need for testing accommodations,what documentation do i need for testing accommodations,documentation testing accommodations
+197,registration,Can I enroll in a class at the Bartlesville campus if I mostly attend in Claremore?,can i enroll in a class at the bartlesville campus if i mostly attend in claremore,can i enroll in a class at the bartlesville campus if i mostly attend in claremore,enroll class bartlesville campus mostly attend claremore
+198,academic_advising,how do i know which upper division classes count for my degree,how do i know which upper division classes count for my degree,how do i know which upper division classes count for my degree,know upper division classes count degree
+199,admissions,I'm transferring from Tulsa Community College. Will my credits transfer?,im transferring from tulsa community college will my credits transfer,im transferring from tulsa community college will my credits transfer,transferring tulsa community college credits transfer
+200,parking_safety,How do I contact campus police?,how do i contact campus police,how do i contact campus police,contact campus police
+201,registration,When is the deadline to add a second 8-week class?,when is the deadline to add a second 8 week class,when is the deadline to add a second 8 week class,deadline add second 8 week class
+202,housing_dining,How do I request a room change?,how do i request a room change,how do i request a room change,request room change
+203,academic_advising,I'm undecided on my major. Who can help me choose?,im undecided on my major who can help me choose,im undecided on my major who can help me choose,undecided major help choose
+204,housing_dining,Can I use my meal swipes for a guest?,can i use my meal swipes for a guest,can i use my meal swipes for a guest,use meal swipes guest
+205,technology_support,My online quiz froze in the middle of the test. What do I do?,my online quiz froze in the middle of the test what do i do,my online quiz froze in the middle of the test what do i do,online quiz froze middle test
+206,parking_safety,I lost my student ID card. How do I get a replacement?,i lost my student id card how do i get a replacement,i lost my student id card how do i get a replacement,lost student id card replacement
+207,financial_aid,I'm an RSU Online student. Do I qualify for the same financial aid?,im an rsu online student do i qualify for the same financial aid,im an rsu online student do i qualify for the same financial aid,rsu online student qualify same financial aid
+208,billing_payments,How do I give my parent access to view my bill?,how do i give my parent access to view my bill,how do i give my parent access to view my bill,give parent access view bill
+209,registration,Where can I find the class schedule for next semester?,where can i find the class schedule for next semester,where can i find the class schedule for next semester,find class schedule next semester
+210,academic_advising,I failed a class. What are my options now?,i failed a class what are my options now,i failed a class what are my options now,failed class options now
+211,billing_payments,Can my parents pay my bill online?,can my parents pay my bill online,can my parents pay my bill online,parents pay bill online
+212,technology_support,My assignment won't upload in my online course. What should I do?,my assignment wont upload in my online course what should i do,my assignment wont upload in my online course what should i do,assignment wont upload online course
+213,campus_life,Do students get into athletic events for free?,do students get into athletic events for free,do students get into athletic events for free,students athletic events free
+214,campus_life,Where can I buy RSU Hillcats merchandise?,where can i buy rsu hillcats merchandise,where can i buy rsu hillcats merchandise,buy rsu hillcats merchandise
+215,financial_aid,How do I fill out the FAFSA for Rogers State?,how do i fill out the fafsa for rogers state,how do i fill out the fafsa for rogers state,fill fafsa rogers state
+216,career_services,How do I find an internship?,how do i find an internship,how do i find an internship,find internship
+217,parking_safety,How do I get my Hillcat Card student ID?,how do i get my hillcat card student id,how do i get my hillcat card student id,hillcat card student id
+218,health_wellness,Can I get a note for missing class because I was sick?,can i get a note for missing class because i was sick,can i get a note for missing class because i was sick,note missing class because sick
+219,technology_support,How do I set up my RSU email on my phone?,how do i set up my rsu email on my phone,how do i set up my rsu email on my phone,set rsu email phone
+220,parking_safety,Is there a safety escort service on campus at night?,is there a safety escort service on campus at night,is there a safety escort service on campus at night,safety escort service campus night
+221,library_tutoring,Where can I get help with my programming assignments?,where can i get help with my programming assignments,where can i get help with my programming assignments,help programming assignments
+222,housing_dining,The AC in my room isn't working. How do I submit a maintenance request?,the ac in my room isnt working how do i submit a maintenance request,the ac in my room isnt working how do i submit a maintenance request,ac room working submit maintenance request
+223,academic_advising,How do I request an incomplete in a course?,how do i request an incomplete in a course,how do i request an incomplete in a course,request incomplete course
+224,technology_support,Where are the computer labs on the Claremore campus?,where are the computer labs on the claremore campus,where are the computer labs on the claremore campus,computer labs claremore campus
+225,academic_advising,What general education courses are required?,what general education courses are required,what general education courses are required,general education courses required
+226,library_tutoring,How do I access the library databases from off campus?,how do i access the library databases from off campus,how do i access the library databases from off campus,access library databases campus
+227,health_wellness,How do I get extra time on exams as an accommodation?,how do i get extra time on exams as an accommodation,how do i get extra time on exams as an accommodation,extra time exams accommodation
+228,financial_aid,"what happens if i withdraw from all my classes, do i have to pay back my grant?",what happens if i withdraw from all my classes do i have to pay back my grant,what happens if i withdraw from all my classes do i have to pay back my grant,happens withdraw classes pay back grant
+229,academic_advising,What classes do I still need to graduate in my program?,what classes do i still need to graduate in my program,what classes do i still need to graduate in my program,classes still graduate program
+230,parking_safety,I got a parking ticket. How do I appeal it?,i got a parking ticket how do i appeal it,i got a parking ticket how do i appeal it,got parking ticket appeal
+231,financial_aid,When will my financial aid be disbursed this semester?,when will my financial aid be disbursed this semester,when will my financial aid be disbursed this semester,financial aid disbursed semester
+232,parking_safety,How do I sign up for emergency text alerts?,how do i sign up for emergency text alerts,how do i sign up for emergency text alerts,sign emergency text alerts
+233,billing_payments,How do I view my itemized bill in MyRSU?,how do i view my itemized bill in myrsu,how do i view my itemized bill in myrsu,view itemized bill myrsu
+234,technology_support,How do I connect to the campus Wi-Fi?,how do i connect to the campus wi fi,how do i connect to the campus wi fi,connect campus wi fi
+235,parking_safety,What can I use my Hillcat Card for?,what can i use my hillcat card for,what can i use my hillcat card for,use hillcat card
+236,library_tutoring,Where can I get help with Excel for my business class?,where can i get help with excel for my business class,where can i get help with excel for my business class,help excel business class
+237,parking_safety,How do I get a parking permit?,how do i get a parking permit,how do i get a parking permit,parking permit
+238,admissions,How do I check the status of my application?,how do i check the status of my application,how do i check the status of my application,check status application
+239,career_services,How do I prepare for a job interview?,how do i prepare for a job interview,how do i prepare for a job interview,prepare job interview
+240,career_services,How should I ask a professor for a reference letter?,how should i ask a professor for a reference letter,how should i ask a professor for a reference letter,ask professor reference letter
+241,housing_dining,Are freshmen required to live on campus?,are freshmen required to live on campus,are freshmen required to live on campus,freshmen required live campus
+242,parking_safety,Do motorcycles need a parking permit?,do motorcycles need a parking permit,do motorcycles need a parking permit,motorcycles parking permit
+243,career_services,Is there a job board for RSU students?,is there a job board for rsu students,is there a job board for rsu students,job board rsu students
+244,parking_safety,How do I report a broken light in a parking lot?,how do i report a broken light in a parking lot,how do i report a broken light in a parking lot,report broken light parking lot
+245,library_tutoring,Can I return library books at the Pryor campus?,can i return library books at the pryor campus,can i return library books at the pryor campus,return library books pryor campus
+246,housing_dining,Do I need a meal plan if I live on campus?,do i need a meal plan if i live on campus,do i need a meal plan if i live on campus,meal plan live campus
+247,registration,How do I withdraw from a single course?,how do i withdraw from a single course,how do i withdraw from a single course,withdraw single course
+248,library_tutoring,Is there free tutoring for math classes?,is there free tutoring for math classes,is there free tutoring for math classes,free tutoring math classes
+249,campus_life,How can I volunteer at RSU Radio?,how can i volunteer at rsu radio,how can i volunteer at rsu radio,volunteer rsu radio
+250,health_wellness,Are there resources for veterans adjusting to college life?,are there resources for veterans adjusting to college life,are there resources for veterans adjusting to college life,resources veterans adjusting college life
+251,career_services,Are there career assessments I can take?,are there career assessments i can take,are there career assessments i can take,career assessments take
+252,health_wellness,Are counseling services free for students?,are counseling services free for students,are counseling services free for students,counseling services free students
+253,parking_safety,Where can I find a campus map?,where can i find a campus map,where can i find a campus map,find campus map
+254,billing_payments,Will I get money back if I drop a class?,will i get money back if i drop a class,will i get money back if i drop a class,money back drop class
+255,health_wellness,Are counseling sessions confidential?,are counseling sessions confidential,are counseling sessions confidential,counseling sessions confidential
+256,library_tutoring,How do I schedule a tutoring session?,how do i schedule a tutoring session,how do i schedule a tutoring session,schedule tutoring session
+257,career_services,How do I find part-time work near campus?,how do i find part time work near campus,how do i find part time work near campus,find part time work near campus
+258,academic_advising,How do I request reinstatement after academic suspension?,how do i request reinstatement after academic suspension,how do i request reinstatement after academic suspension,request reinstatement academic suspension
+259,campus_life,Can I write for the student newspaper?,can i write for the student newspaper,can i write for the student newspaper,write student newspaper
+260,billing_payments,Why was I charged an online course fee?,why was i charged an online course fee,why was i charged an online course fee,charged online course fee
+261,billing_payments,How do I set up direct deposit for my refunds?,how do i set up direct deposit for my refunds,how do i set up direct deposit for my refunds,set direct deposit refunds
+262,health_wellness,Where can I find help if I'm struggling to afford food or housing?,where can i find help if im struggling to afford food or housing,where can i find help if im struggling to afford food or housing,find help struggling afford food housing
+263,career_services,Can I get help deciding on a career path?,can i get help deciding on a career path,can i get help deciding on a career path,help deciding career path
+264,technology_support,How do I contact the IT help desk?,how do i contact the it help desk,how do i contact the it help desk,contact help desk
+265,campus_life,Does RSU have a cheer or dance team?,does rsu have a cheer or dance team,does rsu have a cheer or dance team,rsu cheer dance team
+266,academic_advising,How do I make the honor roll?,how do i make the honor roll,how do i make the honor roll,make honor roll
+267,parking_safety,Are there EV charging stations on campus?,are there ev charging stations on campus,are there ev charging stations on campus,ev charging stations campus
+268,parking_safety,"someone stole my bike on campus, how do i file a report",someone stole my bike on campus how do i file a report,someone stole my bike on campus how do i file a report,someone stole bike campus file report
+269,library_tutoring,Is there tutoring for chemistry or biology?,is there tutoring for chemistry or biology,is there tutoring for chemistry or biology,tutoring chemistry biology
+270,admissions,How do I submit my immunization records?,how do i submit my immunization records,how do i submit my immunization records,submit immunization records
+271,registration,How do I add a class after the semester has already started?,how do i add a class after the semester has already started,how do i add a class after the semester has already started,add class semester already started
+272,billing_payments,Can I charge my textbooks to my student account?,can i charge my textbooks to my student account,can i charge my textbooks to my student account,charge textbooks student account
+273,academic_advising,Who needs to sign my graduation application?,who needs to sign my graduation application,who needs to sign my graduation application,needs sign graduation application
+274,housing_dining,What meal plan options are there?,what meal plan options are there,what meal plan options are there,meal plan options
+275,health_wellness,Are there resources for students with ADHD?,are there resources for students with adhd,are there resources for students with adhd,resources students adhd
+276,admissions,What do I need to submit if I have a GED instead of a diploma?,what do i need to submit if i have a ged instead of a diploma,what do i need to submit if i have a ged instead of a diploma,submit ged instead diploma
+277,financial_aid,How long does it take RSU to process my FAFSA?,how long does it take rsu to process my fafsa,how long does it take rsu to process my fafsa,long take rsu process fafsa
+278,housing_dining,How do I cancel my housing contract?,how do i cancel my housing contract,how do i cancel my housing contract,cancel housing contract
+279,health_wellness,I'm really stressed about finals. Who can I talk to?,im really stressed about finals who can i talk to,im really stressed about finals who can i talk to,really stressed finals talk
+280,billing_payments,I have a hold because of an unpaid balance. How do I remove it?,i have a hold because of an unpaid balance how do i remove it,i have a hold because of an unpaid balance how do i remove it,hold because unpaid balance remove
+281,career_services,Are there on-campus jobs for students?,are there on campus jobs for students,are there on campus jobs for students,campus jobs students
+282,campus_life,How do I become a student ambassador or campus tour guide?,how do i become a student ambassador or campus tour guide,how do i become a student ambassador or campus tour guide,become student ambassador campus tour guide
+283,library_tutoring,Can I access e-books through the library?,can i access e books through the library,can i access e books through the library,access e books through library
+284,health_wellness,Are there resources for students who are parents?,are there resources for students who are parents,are there resources for students who are parents,resources students parents
+285,library_tutoring,How do I check out a book?,how do i check out a book,how do i check out a book,check book
+286,technology_support,My student email inbox is full.,my student email inbox is full,my student email inbox is full,student email inbox full
+287,registration,The class I need is full. Can I get a permission override?,the class i need is full can i get a permission override,the class i need is full can i get a permission override,class full permission override
+288,billing_payments,My employer is paying my tuition. How do I set up third-party billing?,my employer is paying my tuition how do i set up third party billing,my employer is paying my tuition how do i set up third party billing,employer paying tuition set third party billing
+289,admissions,What's the deadline to apply for the fall semester?,whats the deadline to apply for the fall semester,whats the deadline to apply for the fall semester,deadline apply fall semester
+290,academic_advising,How do I schedule an advising appointment?,how do i schedule an advising appointment,how do i schedule an advising appointment,schedule advising appointment
+291,academic_advising,What GPA do I need to stay in good academic standing?,what gpa do i need to stay in good academic standing,what gpa do i need to stay in good academic standing,gpa stay good academic standing
+292,technology_support,I got an email asking for my password. Is it a scam?,i got an email asking for my password is it a scam,i got an email asking for my password is it a scam,got email asking password scam
+293,academic_advising,How do I apply for graduation?,how do i apply for graduation,how do i apply for graduation,apply graduation
+294,campus_life,Can commuter students participate in campus activities?,can commuter students participate in campus activities,can commuter students participate in campus activities,commuter students participate campus activities
+295,career_services,How do I prepare for a technical interview for a software job?,how do i prepare for a technical interview for a software job,how do i prepare for a technical interview for a software job,prepare technical interview software job
+296,career_services,How do I prepare for graduate school applications?,how do i prepare for graduate school applications,how do i prepare for graduate school applications,prepare graduate school applications
+297,registration,How do I register for the lab section that goes with my lecture?,how do i register for the lab section that goes with my lecture,how do i register for the lab section that goes with my lecture,register lab section goes lecture
+298,health_wellness,Are there support groups for students?,are there support groups for students,are there support groups for students,support groups students
+299,health_wellness,Where can I find information about student health insurance?,where can i find information about student health insurance,where can i find information about student health insurance,find information student health insurance
+300,billing_payments,My old balance was sent to collections. Who do I contact?,my old balance was sent to collections who do i contact,my old balance was sent to collections who do i contact,old balance sent collections contact
+301,admissions,How do I talk to an admissions counselor?,how do i talk to an admissions counselor,how do i talk to an admissions counselor,talk admissions counselor
+302,financial_aid,Will my tribal scholarship be applied directly to my account?,will my tribal scholarship be applied directly to my account,will my tribal scholarship be applied directly to my account,tribal scholarship applied directly account
+303,registration,How do I get on the waitlist for a full class?,how do i get on the waitlist for a full class,how do i get on the waitlist for a full class,waitlist full class
+304,admissions,Can I apply as an adult learner who has been out of school for years?,can i apply as an adult learner who has been out of school for years,can i apply as an adult learner who has been out of school for years,apply adult learner been school years
+305,library_tutoring,Can someone review my essay before I turn it in?,can someone review my essay before i turn it in,can someone review my essay before i turn it in,someone review essay turn
+306,academic_advising,Where can I find my degree check sheet?,where can i find my degree check sheet,where can i find my degree check sheet,find degree check sheet
+307,housing_dining,How do I apply for on-campus housing?,how do i apply for on campus housing,how do i apply for on campus housing,apply campus housing
+308,library_tutoring,Do I have any library fines?,do i have any library fines,do i have any library fines,library fines
+309,registration,How do I switch from an in-person section to an online section?,how do i switch from an in person section to an online section,how do i switch from an in person section to an online section,switch person section online section
+310,academic_advising,Should I take 12 or 15 credit hours per semester?,should i take 12 or 15 credit hours per semester,should i take 12 or 15 credit hours per semester,take 12 15 credit hours per semester
+311,technology_support,My online course page won't load. Who can help?,my online course page wont load who can help,my online course page wont load who can help,online course page wont load help
+312,library_tutoring,Does the library keep textbooks on reserve?,does the library keep textbooks on reserve,does the library keep textbooks on reserve,library keep textbooks reserve
+313,campus_life,Is there an equestrian club or team?,is there an equestrian club or team,is there an equestrian club or team,equestrian club team
+314,financial_aid,How do I add RSU to my FAFSA if I already sent it to another school?,how do i add rsu to my fafsa if i already sent it to another school,how do i add rsu to my fafsa if i already sent it to another school,add rsu fafsa already sent another school
+315,billing_payments,How do I get my 1098-T form for taxes?,how do i get my 1098 t form for taxes,how do i get my 1098 t form for taxes,1098 t form taxes
+316,career_services,How do I find jobs related to my major?,how do i find jobs related to my major,how do i find jobs related to my major,find jobs related major
+317,housing_dining,Are internet and utilities included in the room rate?,are internet and utilities included in the room rate,are internet and utilities included in the room rate,internet utilities included room rate
+318,academic_advising,How do I declare a minor?,how do i declare a minor,how do i declare a minor,declare minor
+319,registration,My schedule shows a class I didn't sign up for. How do I fix it?,my schedule shows a class i didnt sign up for how do i fix it,my schedule shows a class i didnt sign up for how do i fix it,schedule shows class didnt sign fix
+320,academic_advising,How do I appeal a final grade?,how do i appeal a final grade,how do i appeal a final grade,appeal final grade
+321,health_wellness,Are there wellness events or yoga classes on campus?,are there wellness events or yoga classes on campus,are there wellness events or yoga classes on campus,wellness events yoga classes campus
+322,health_wellness,Is there a lactation room on campus?,is there a lactation room on campus,is there a lactation room on campus,lactation room campus
+323,housing_dining,How do I get mail delivered to my campus address?,how do i get mail delivered to my campus address,how do i get mail delivered to my campus address,mail delivered campus address
+324,admissions,How do I change the major listed on my application?,how do i change the major listed on my application,how do i change the major listed on my application,change major listed application
+325,technology_support,My webcam isn't working for a proctored exam.,my webcam isnt working for a proctored exam,my webcam isnt working for a proctored exam,webcam working proctored exam
+326,health_wellness,How do I schedule a counseling appointment?,how do i schedule a counseling appointment,how do i schedule a counseling appointment,schedule counseling appointment
+327,housing_dining,How do I check out of my room at the end of the year?,how do i check out of my room at the end of the year,how do i check out of my room at the end of the year,check room end year
+328,health_wellness,How do I request a note-taker as an accommodation?,how do i request a note taker as an accommodation,how do i request a note taker as an accommodation,request note taker accommodation
+329,technology_support,Can I connect my gaming console to the campus network?,can i connect my gaming console to the campus network,can i connect my gaming console to the campus network,connect gaming console campus network
+330,financial_aid,Why hasn't my Pell Grant shown up on my account yet?,why hasnt my pell grant shown up on my account yet,why hasnt my pell grant shown up on my account yet,hasnt pell grant shown account yet
+331,billing_payments,Why was I charged for a parking permit on my bill?,why was i charged for a parking permit on my bill,why was i charged for a parking permit on my bill,charged parking permit bill
+332,career_services,Can someone review my resume?,can someone review my resume,can someone review my resume,someone review resume
+333,campus_life,Are there any clubs for computer science students?,are there any clubs for computer science students,are there any clubs for computer science students,clubs computer science students
+334,admissions,Does RSU accept AP or CLEP credit?,does rsu accept ap or clep credit,does rsu accept ap or clep credit,rsu accept ap clep credit
+335,campus_life,Where is the Student Union?,where is the student union,where is the student union,student union
+336,health_wellness,How do I get mental health support after hours?,how do i get mental health support after hours,how do i get mental health support after hours,mental health support hours
+337,health_wellness,Is there a health clinic on campus?,is there a health clinic on campus,is there a health clinic on campus,health clinic campus
+338,admissions,What are the admission requirements for international students?,what are the admission requirements for international students,what are the admission requirements for international students,admission requirements international students
+339,library_tutoring,Can I borrow a calculator from the library?,can i borrow a calculator from the library,can i borrow a calculator from the library,borrow calculator library
+340,financial_aid,Can I get financial aid for summer classes?,can i get financial aid for summer classes,can i get financial aid for summer classes,financial aid summer classes
+341,career_services,Are mock interviews available?,are mock interviews available,are mock interviews available,mock interviews available
+342,parking_safety,Who do I call if I locked my keys in my car?,who do i call if i locked my keys in my car,who do i call if i locked my keys in my car,call locked keys car
+343,admissions,Can I start as a new freshman in the spring semester?,can i start as a new freshman in the spring semester,can i start as a new freshman in the spring semester,start new freshman spring semester
+344,admissions,I used to be a student at RSU. How do I reapply?,i used to be a student at rsu how do i reapply,i used to be a student at rsu how do i reapply,used student rsu reapply
+345,registration,Can I take a class pass/fail?,can i take a class pass fail,can i take a class pass fail,take class pass fail
+346,financial_aid,How do I apply for a work-study job?,how do i apply for a work study job,how do i apply for a work study job,apply work study job
+347,financial_aid,My parents' income changed a lot this year. Can my aid be adjusted?,my parents income changed a lot this year can my aid be adjusted,my parents income changed a lot this year can my aid be adjusted,parents income changed lot year aid adjusted
+348,campus_life,How do I join intramural sports?,how do i join intramural sports,how do i join intramural sports,join intramural sports
+349,career_services,Does RSU host a career fair?,does rsu host a career fair,does rsu host a career fair,rsu host career fair
+350,registration,Do I need my advisor's approval before I can enroll?,do i need my advisors approval before i can enroll,do i need my advisors approval before i can enroll,advisors approval enroll
+351,library_tutoring,Is online tutoring available for RSU Online students?,is online tutoring available for rsu online students,is online tutoring available for rsu online students,online tutoring available rsu online students
+352,health_wellness,Where can I get tested if I think I'm sick?,where can i get tested if i think im sick,where can i get tested if i think im sick,tested think sick
+353,registration,Can I repeat a course to replace my grade?,can i repeat a course to replace my grade,can i repeat a course to replace my grade,repeat course replace grade
+354,technology_support,How do I forward my RSU email to my personal email?,how do i forward my rsu email to my personal email,how do i forward my rsu email to my personal email,forward rsu email personal email
+355,admissions,I live in southeast Kansas. Can I qualify for in-state tuition?,i live in southeast kansas can i qualify for in state tuition,i live in southeast kansas can i qualify for in state tuition,live southeast kansas qualify state tuition
+356,billing_payments,How will I receive the leftover money on my account after aid pays?,how will i receive the leftover money on my account after aid pays,how will i receive the leftover money on my account after aid pays,receive leftover money account aid pays
+357,billing_payments,Will my classes be dropped if I don't pay?,will my classes be dropped if i dont pay,will my classes be dropped if i dont pay,classes dropped pay
+358,financial_aid,Do I need to complete loan entrance counseling before my loan is disbursed?,do i need to complete loan entrance counseling before my loan is disbursed,do i need to complete loan entrance counseling before my loan is disbursed,complete loan entrance counseling loan disbursed
+359,registration,How do I enroll in an internship course for credit?,how do i enroll in an internship course for credit,how do i enroll in an internship course for credit,enroll internship course credit
+360,career_services,What questions should I ask an employer at the end of an interview?,what questions should i ask an employer at the end of an interview,what questions should i ask an employer at the end of an interview,questions ask employer end interview

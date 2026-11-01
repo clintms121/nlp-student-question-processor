@@ -1,0 +1,49 @@
+=== Model: TF-IDF + Multinomial Naive Bayes ===
+Training questions: 288
+Testing questions:  72
+Accuracy:           63.9%
+
+=== Results per category ===
+                    precision    recall  f1-score   support
+
+ academic_advising       0.67      0.67      0.67         6
+        admissions       0.00      0.00      0.00         6
+  billing_payments       0.62      0.83      0.71         6
+       campus_life       0.50      0.50      0.50         6
+   career_services       0.75      0.50      0.60         6
+     financial_aid       0.50      0.67      0.57         6
+   health_wellness       0.33      0.17      0.22         6
+    housing_dining       0.75      1.00      0.86         6
+  library_tutoring       1.00      0.83      0.91         6
+    parking_safety       0.71      0.83      0.77         6
+      registration       0.75      1.00      0.86         6
+technology_support       0.57      0.67      0.62         6
+
+          accuracy                           0.64        72
+         macro avg       0.60      0.64      0.61        72
+      weighted avg       0.60      0.64      0.61        72
+
+=== Example predictions ===
+[OK   ] How do I withdraw from a single course?
+        actual: registration | predicted: registration
+[WRONG] Are there fraternities or sororities at RSU?
+        actual: campus_life | predicted: financial_aid
+[OK   ] I'm an RSU Online student. Do I qualify for the same financial aid?
+        actual: financial_aid | predicted: financial_aid
+[OK   ] Do I need a different parking permit for the Bartlesville campus?
+        actual: parking_safety | predicted: parking_safety
+[OK   ] How do I cancel my housing contract?
+        actual: housing_dining | predicted: housing_dining
+[OK   ] Can I take a class pass/fail?
+        actual: registration | predicted: registration
+[OK   ] How do I set up my RSU email on my phone?
+        actual: technology_support | predicted: technology_support
+[WRONG] How do I apply for a work-study job?
+        actual: financial_aid | predicted: career_services
+
+=== Most common mistakes (actual -> predicted) ===
+health_wellness -> academic_advising: 2
+career_services -> billing_payments: 2
+campus_life -> financial_aid: 1
+financial_aid -> career_services: 1
+health_wellness -> parking_safety: 1

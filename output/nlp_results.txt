@@ -1,0 +1,53 @@
+=== Dataset summary ===
+Questions:              360
+Categories:             12
+Tokens before stopwords: 3273
+Tokens after stopwords:  1527
+Unique keywords:        699
+
+=== Example: text cleaning and tokenization ===
+Original: I lost my room key. What do I do?
+Cleaned:  i lost my room key what do i do
+Tokens:   ['i', 'lost', 'my', 'room', 'key', 'what', 'do', 'i', 'do']
+Keywords: ['lost', 'room', 'key']
+
+Original: my mic doesnt work in my online class meeting, how do i fix it
+Cleaned:  my mic doesnt work in my online class meeting how do i fix it
+Tokens:   ['my', 'mic', 'doesnt', 'work', 'in', 'my', 'online', 'class', 'meeting', 'how', 'do', 'i', 'fix', 'it']
+Keywords: ['mic', 'work', 'online', 'class', 'meeting', 'fix']
+
+Original: What's the difference between a BS and a BAS degree?
+Cleaned:  whats the difference between a bs and a bas degree
+Tokens:   ['whats', 'the', 'difference', 'between', 'a', 'bs', 'and', 'a', 'bas', 'degree']
+Keywords: ['difference', 'between', 'bs', 'bas', 'degree']
+
+=== Top 15 keywords (all questions) ===
+campus         48
+rsu            36
+student        24
+online         23
+students       23
+class          23
+library        15
+apply          14
+find           13
+semester       13
+course         13
+help           13
+classes        12
+aid            12
+parking        11
+
+=== Top 5 keywords per category ===
+academic_advising   academic (5), degree (4), course (3), major (3), take (3)
+admissions          apply (8), rsu (6), school (4), application (4), state (3)
+billing_payments    pay (8), bill (8), tuition (7), online (4), payment (4)
+campus_life         student (7), students (6), campus (6), rsu (6), club (4)
+career_services     career (7), job (5), rsu (4), find (4), help (3)
+financial_aid       aid (10), rsu (8), financial (7), scholarships (4), fafsa (4)
+health_wellness     students (6), campus (5), counseling (4), support (3), help (3)
+housing_dining      campus (10), housing (8), room (6), meal (4), live (3)
+library_tutoring    library (15), tutoring (5), book (4), online (3), study (3)
+parking_safety      campus (13), parking (10), permit (4), report (3), car (3)
+registration        class (14), enroll (8), course (6), credit (4), semester (4)
+technology_support  online (7), rsu (6), email (6), student (4), campus (4)
