@@ -1,0 +1,361 @@
+id,question,category
+1,How do I find out who my resident assistant is?,housing_dining
+2,I lost my room key. What do I do?,housing_dining
+3,How do I apply to Rogers State University?,admissions
+4,What is academic probation and how do I get off it?,academic_advising
+5,How can online students stay connected to campus life?,campus_life
+6,Can I park in faculty spaces after 5 pm?,parking_safety
+7,When should I start looking for summer internships?,career_services
+8,How do I see my class schedule with room numbers?,registration
+9,Can I meet with a career counselor online?,career_services
+10,Can I still be admitted if my high school GPA is below the requirement?,admissions
+11,"my mic doesnt work in my online class meeting, how do i fix it",technology_support
+12,When is move-in day for the fall semester?,housing_dining
+13,What is concurrent enrollment and how do high school students apply?,admissions
+14,Can I get Microsoft Office for free as an RSU student?,technology_support
+15,How do I try out for a sports team?,campus_life
+16,Am I on track to graduate in four years?,academic_advising
+17,Is there a gaming or esports club?,campus_life
+18,Do I have to attend new student orientation?,admissions
+19,Which employers hire RSU computer science graduates?,career_services
+20,How do I schedule a campus tour?,admissions
+21,Which web browser works best for online classes?,technology_support
+22,What's the difference between a BS and a BAS degree?,academic_advising
+23,How do I petition for a course substitution?,academic_advising
+24,When is the next Hillcats home basketball game?,campus_life
+25,How do I request a transcript evaluation as a transfer student?,admissions
+26,When is the Oklahoma Military Academy Museum open?,campus_life
+27,Can I get college credit for my work experience?,academic_advising
+28,How do I renew a library book online?,library_tutoring
+29,Is there a fitness center students can use?,campus_life
+30,What are the tutoring center's hours during finals week?,library_tutoring
+31,Is there support for students dealing with grief?,health_wellness
+32,What is the last day to drop a class without getting a W?,registration
+33,Is laundry included with campus housing?,housing_dining
+34,Can I choose my roommate?,housing_dining
+35,Can I apply to work as a peer tutor?,library_tutoring
+36,My parking permit fell off my windshield. Can I get a new one?,parking_safety
+37,Does RSU help with job placement after graduation?,career_services
+38,Does RSU offer any scholarships for transfer students?,financial_aid
+39,The projector in my classroom isn't working. Who do I call?,technology_support
+40,How do I get my club's event on the campus calendar?,campus_life
+41,Where are the bike racks on campus?,parking_safety
+42,Are pets allowed in campus housing?,housing_dining
+43,How do I enroll in a second 8-week course?,registration
+44,Is there public transportation to campus?,parking_safety
+45,How do I get tickets to the RSU theatre productions?,campus_life
+46,I have unexpected medical bills this year. Can I request more aid?,financial_aid
+47,How do I change my major?,academic_advising
+48,How do I pay my tuition bill online?,billing_payments
+49,I want to switch from computer science to business information technology. Will my credits count?,academic_advising
+50,Can I take more than 18 credit hours in one semester?,registration
+51,Does the library have a scanner I can use?,library_tutoring
+52,Why can't I see one of my courses in my online classes list?,technology_support
+53,How do I cite sources in APA format?,library_tutoring
+54,Does RSU loan laptops to students?,technology_support
+55,Is there an application fee to apply to RSU?,admissions
+56,I lost my aid because of SAP. How do I file an appeal?,financial_aid
+57,How do I get involved with student government?,campus_life
+58,My account got locked after too many login attempts.,technology_support
+59,Can I live off campus as a freshman?,housing_dining
+60,Is there a Native American student association?,campus_life
+61,Can dining services accommodate a food allergy?,housing_dining
+62,How do I send my high school transcript to RSU?,admissions
+63,how do i explain a gap in my work history on my resume,career_services
+64,can i bring my service animal to class,health_wellness
+65,How do I set up multi-factor authentication on my student account?,technology_support
+66,I'm not receiving my two-factor verification codes.,technology_support
+67,Can I stay in campus housing over winter break?,housing_dining
+68,How many credit hours do I need to be considered full-time?,registration
+69,How do I apply to the nursing program?,admissions
+70,How do I use my GI Bill benefits at RSU?,financial_aid
+71,How will I know if classes are cancelled for bad weather?,parking_safety
+72,How do I find out about homecoming events?,campus_life
+73,Where can I get a flu shot?,health_wellness
+74,Does the library have quiet study areas?,library_tutoring
+75,Can I get an extension on my payment due date?,billing_payments
+76,Is there accessible parking near the classroom buildings?,parking_safety
+77,Are there networking events with local employers?,career_services
+78,Where is the lost and found?,parking_safety
+79,Do I need a different parking permit for the Bartlesville campus?,parking_safety
+80,How do I request a book through interlibrary loan?,library_tutoring
+81,How is my residency decided for in-state tuition?,admissions
+82,Can I reserve a study room in the library?,library_tutoring
+83,What is the academic forgiveness policy?,academic_advising
+84,What should I wear to the career fair?,career_services
+85,Are the student apartments furnished?,housing_dining
+86,Does RSU offer a payment plan?,billing_payments
+87,How do I find out who my academic advisor is?,academic_advising
+88,What items are not allowed in the residence hall?,housing_dining
+89,How do I accept or decline my student loans?,financial_aid
+90,Do online students pay the same tuition as on-campus students?,billing_payments
+91,How do I print from a campus computer?,technology_support
+92,What events are happening on campus this week?,campus_life
+93,Is there a special admissions process for military veterans?,admissions
+94,Can I get help managing test anxiety?,health_wellness
+95,My laptop won't connect to the Wi-Fi in my residence hall.,technology_support
+96,does the library have practice materials for the GRE,library_tutoring
+97,What is Satisfactory Academic Progress and how do I stay eligible?,financial_aid
+98,How long can I keep a library book?,library_tutoring
+99,Where is the bursar's office located?,billing_payments
+100,Where is visitor parking?,parking_safety
+101,How do I report a safety concern on campus?,parking_safety
+102,Why do I still have a balance after my financial aid paid?,billing_payments
+103,Is my housing charged on the same bill as tuition?,billing_payments
+104,Can students visit the nature preserve?,campus_life
+105,How do I reserve a room for a club meeting?,campus_life
+106,Is there a separate application for graduate programs?,admissions
+107,What fees are included on my bill?,billing_payments
+108,When does enrollment open for the spring semester?,registration
+109,Is there a food pantry on campus?,health_wellness
+110,What are the dining hall hours?,housing_dining
+111,How do I audit a class instead of taking it for credit?,registration
+112,Are internships usually paid?,career_services
+113,What is there to do on campus on the weekends?,campus_life
+114,How do I apply for RSU Foundation scholarships?,financial_aid
+115,My car won't start in the campus parking lot. Can someone help?,parking_safety
+116,Can I take a class at another college and transfer it back to RSU?,academic_advising
+117,How do I set up a good LinkedIn profile?,career_services
+118,Are there fraternities or sororities at RSU?,campus_life
+119,What scholarships are available for incoming freshmen at RSU?,financial_aid
+120,Does RSU require the ACT or SAT for admission?,admissions
+121,How do I find remote jobs as an online student?,career_services
+122,Why can't I enroll in a 3000-level course yet?,registration
+123,Can I get a professional headshot taken on campus?,career_services
+124,Are there vegetarian options in the dining hall?,housing_dining
+125,Do I have to meet with my advisor every semester?,academic_advising
+126,how do i drop a class online,registration
+127,What housing options are available on the Claremore campus?,housing_dining
+128,What student organizations can I join at RSU?,campus_life
+129,What's the difference between a subsidized and unsubsidized loan?,financial_aid
+130,What's the difference between dropping and withdrawing from a class?,registration
+131,Can I apply to a fully online degree program?,admissions
+132,Can I pay my tuition with a credit card?,billing_payments
+133,What is my RSU username?,technology_support
+134,Is there student housing at the Bartlesville or Pryor campuses?,housing_dining
+135,What are the library hours?,library_tutoring
+136,Where is the writing center?,library_tutoring
+137,where can i get food on campus late at night,housing_dining
+138,Where do I go to get my ID photo taken?,parking_safety
+139,I forgot my MyRSU password. How do I reset it?,technology_support
+140,What happens if I don't pay my balance by the due date?,billing_payments
+141,I accidentally paid twice. How do I get my money back?,billing_payments
+142,How do I change my MyRSU password?,technology_support
+143,Does dropping a class affect my financial aid?,financial_aid
+144,Can I change my meal plan in the middle of the semester?,housing_dining
+145,can i mail a check to pay my bill,billing_payments
+146,I'm having trouble sleeping and keeping up with classes. Is there help?,health_wellness
+147,Is there a deadline to apply for institutional scholarships?,financial_aid
+148,What is RSU's school code for the FAFSA?,financial_aid
+149,Is there a limit on how many times I can retake a course?,registration
+150,What does it mean when a class is cross-listed?,registration
+151,Are there study groups for statistics?,library_tutoring
+152,Can career services help me write a cover letter?,career_services
+153,I was selected for verification. What documents do I need to submit?,financial_aid
+154,Can I still access my online course materials after the semester ends?,technology_support
+155,are there any free events this friday,campus_life
+156,How do I renew my accommodation letter each semester?,health_wellness
+157,Can alumni still use career services?,career_services
+158,How do I register for classes in MyRSU?,registration
+159,Can I visit the Pryor campus before I apply?,admissions
+160,Is there a late payment fee?,billing_payments
+161,What should I do during a tornado warning on campus?,parking_safety
+162,Does RSU offer my bachelor's degree fully online?,academic_advising
+163,I just got admitted. What are my next steps?,admissions
+164,How do I list volunteer work on my resume?,career_services
+165,Does the Bartlesville campus have a library?,library_tutoring
+166,Can I double major at RSU?,academic_advising
+167,Can I still enroll if I missed the registration deadline?,registration
+168,Where can students park on the Claremore campus?,parking_safety
+169,When should I take my capstone course?,academic_advising
+170,Can I print in the library?,library_tutoring
+171,How do I start a new student club?,campus_life
+172,What does a prerequisite error mean when I try to enroll?,registration
+173,Is there a nurse on campus?,health_wellness
+174,When is my tuition payment due?,billing_payments
+175,Can I have overnight guests in my room?,housing_dining
+176,How do I negotiate a job offer?,career_services
+177,I have a hold on my account and can't enroll. What do I do?,registration
+178,Does RSU offer telehealth counseling for online students?,health_wellness
+179,What happens to my scholarship if my GPA drops below the requirement?,financial_aid
+180,How much is tuition per credit hour?,billing_payments
+181,Can someone explain what my financial aid award letter means?,financial_aid
+182,Can I receive financial aid if I'm only enrolled part-time?,financial_aid
+183,How much more do out-of-state students pay?,billing_payments
+184,Someone hit my car in the parking lot. What should I do?,parking_safety
+185,Am I eligible for Oklahoma's Promise as an RSU student?,financial_aid
+186,How do I log in to my RSU student email?,technology_support
+187,How do I install the software required for my programming class?,technology_support
+188,What ACT score do I need to get into RSU?,admissions
+189,Who do I contact if I'm worried about a friend?,health_wellness
+190,How do I check the status of my financial aid in MyRSU?,financial_aid
+191,Can a librarian help me find sources for my research paper?,library_tutoring
+192,How do I submit an IT support ticket?,technology_support
+193,How much is the housing deposit?,housing_dining
+194,How do I request accommodations for a disability?,health_wellness
+195,Are campus buildings locked at night?,parking_safety
+196,What documentation do I need for testing accommodations?,health_wellness
+197,Can I enroll in a class at the Bartlesville campus if I mostly attend in Claremore?,registration
+198,how do i know which upper division classes count for my degree,academic_advising
+199,I'm transferring from Tulsa Community College. Will my credits transfer?,admissions
+200,How do I contact campus police?,parking_safety
+201,When is the deadline to add a second 8-week class?,registration
+202,How do I request a room change?,housing_dining
+203,I'm undecided on my major. Who can help me choose?,academic_advising
+204,Can I use my meal swipes for a guest?,housing_dining
+205,My online quiz froze in the middle of the test. What do I do?,technology_support
+206,I lost my student ID card. How do I get a replacement?,parking_safety
+207,I'm an RSU Online student. Do I qualify for the same financial aid?,financial_aid
+208,How do I give my parent access to view my bill?,billing_payments
+209,Where can I find the class schedule for next semester?,registration
+210,I failed a class. What are my options now?,academic_advising
+211,Can my parents pay my bill online?,billing_payments
+212,My assignment won't upload in my online course. What should I do?,technology_support
+213,Do students get into athletic events for free?,campus_life
+214,Where can I buy RSU Hillcats merchandise?,campus_life
+215,How do I fill out the FAFSA for Rogers State?,financial_aid
+216,How do I find an internship?,career_services
+217,How do I get my Hillcat Card student ID?,parking_safety
+218,Can I get a note for missing class because I was sick?,health_wellness
+219,How do I set up my RSU email on my phone?,technology_support
+220,Is there a safety escort service on campus at night?,parking_safety
+221,Where can I get help with my programming assignments?,library_tutoring
+222,The AC in my room isn't working. How do I submit a maintenance request?,housing_dining
+223,How do I request an incomplete in a course?,academic_advising
+224,Where are the computer labs on the Claremore campus?,technology_support
+225,What general education courses are required?,academic_advising
+226,How do I access the library databases from off campus?,library_tutoring
+227,How do I get extra time on exams as an accommodation?,health_wellness
+228,"what happens if i withdraw from all my classes, do i have to pay back my grant?",financial_aid
+229,What classes do I still need to graduate in my program?,academic_advising
+230,I got a parking ticket. How do I appeal it?,parking_safety
+231,When will my financial aid be disbursed this semester?,financial_aid
+232,How do I sign up for emergency text alerts?,parking_safety
+233,How do I view my itemized bill in MyRSU?,billing_payments
+234,How do I connect to the campus Wi-Fi?,technology_support
+235,What can I use my Hillcat Card for?,parking_safety
+236,Where can I get help with Excel for my business class?,library_tutoring
+237,How do I get a parking permit?,parking_safety
+238,How do I check the status of my application?,admissions
+239,How do I prepare for a job interview?,career_services
+240,How should I ask a professor for a reference letter?,career_services
+241,Are freshmen required to live on campus?,housing_dining
+242,Do motorcycles need a parking permit?,parking_safety
+243,Is there a job board for RSU students?,career_services
+244,How do I report a broken light in a parking lot?,parking_safety
+245,Can I return library books at the Pryor campus?,library_tutoring
+246,Do I need a meal plan if I live on campus?,housing_dining
+247,How do I withdraw from a single course?,registration
+248,Is there free tutoring for math classes?,library_tutoring
+249,How can I volunteer at RSU Radio?,campus_life
+250,Are there resources for veterans adjusting to college life?,health_wellness
+251,Are there career assessments I can take?,career_services
+252,Are counseling services free for students?,health_wellness
+253,Where can I find a campus map?,parking_safety
+254,Will I get money back if I drop a class?,billing_payments
+255,Are counseling sessions confidential?,health_wellness
+256,How do I schedule a tutoring session?,library_tutoring
+257,How do I find part-time work near campus?,career_services
+258,How do I request reinstatement after academic suspension?,academic_advising
+259,Can I write for the student newspaper?,campus_life
+260,Why was I charged an online course fee?,billing_payments
+261,How do I set up direct deposit for my refunds?,billing_payments
+262,Where can I find help if I'm struggling to afford food or housing?,health_wellness
+263,Can I get help deciding on a career path?,career_services
+264,How do I contact the IT help desk?,technology_support
+265,Does RSU have a cheer or dance team?,campus_life
+266,How do I make the honor roll?,academic_advising
+267,Are there EV charging stations on campus?,parking_safety
+268,"someone stole my bike on campus, how do i file a report",parking_safety
+269,Is there tutoring for chemistry or biology?,library_tutoring
+270,How do I submit my immunization records?,admissions
+271,How do I add a class after the semester has already started?,registration
+272,Can I charge my textbooks to my student account?,billing_payments
+273,Who needs to sign my graduation application?,academic_advising
+274,What meal plan options are there?,housing_dining
+275,Are there resources for students with ADHD?,health_wellness
+276,What do I need to submit if I have a GED instead of a diploma?,admissions
+277,How long does it take RSU to process my FAFSA?,financial_aid
+278,How do I cancel my housing contract?,housing_dining
+279,I'm really stressed about finals. Who can I talk to?,health_wellness
+280,I have a hold because of an unpaid balance. How do I remove it?,billing_payments
+281,Are there on-campus jobs for students?,career_services
+282,How do I become a student ambassador or campus tour guide?,campus_life
+283,Can I access e-books through the library?,library_tutoring
+284,Are there resources for students who are parents?,health_wellness
+285,How do I check out a book?,library_tutoring
+286,My student email inbox is full.,technology_support
+287,The class I need is full. Can I get a permission override?,registration
+288,My employer is paying my tuition. How do I set up third-party billing?,billing_payments
+289,What's the deadline to apply for the fall semester?,admissions
+290,How do I schedule an advising appointment?,academic_advising
+291,What GPA do I need to stay in good academic standing?,academic_advising
+292,I got an email asking for my password. Is it a scam?,technology_support
+293,How do I apply for graduation?,academic_advising
+294,Can commuter students participate in campus activities?,campus_life
+295,How do I prepare for a technical interview for a software job?,career_services
+296,How do I prepare for graduate school applications?,career_services
+297,How do I register for the lab section that goes with my lecture?,registration
+298,Are there support groups for students?,health_wellness
+299,Where can I find information about student health insurance?,health_wellness
+300,My old balance was sent to collections. Who do I contact?,billing_payments
+301,How do I talk to an admissions counselor?,admissions
+302,Will my tribal scholarship be applied directly to my account?,financial_aid
+303,How do I get on the waitlist for a full class?,registration
+304,Can I apply as an adult learner who has been out of school for years?,admissions
+305,Can someone review my essay before I turn it in?,library_tutoring
+306,Where can I find my degree check sheet?,academic_advising
+307,How do I apply for on-campus housing?,housing_dining
+308,Do I have any library fines?,library_tutoring
+309,How do I switch from an in-person section to an online section?,registration
+310,Should I take 12 or 15 credit hours per semester?,academic_advising
+311,My online course page won't load. Who can help?,technology_support
+312,Does the library keep textbooks on reserve?,library_tutoring
+313,Is there an equestrian club or team?,campus_life
+314,How do I add RSU to my FAFSA if I already sent it to another school?,financial_aid
+315,How do I get my 1098-T form for taxes?,billing_payments
+316,How do I find jobs related to my major?,career_services
+317,Are internet and utilities included in the room rate?,housing_dining
+318,How do I declare a minor?,academic_advising
+319,My schedule shows a class I didn't sign up for. How do I fix it?,registration
+320,How do I appeal a final grade?,academic_advising
+321,Are there wellness events or yoga classes on campus?,health_wellness
+322,Is there a lactation room on campus?,health_wellness
+323,How do I get mail delivered to my campus address?,housing_dining
+324,How do I change the major listed on my application?,admissions
+325,My webcam isn't working for a proctored exam.,technology_support
+326,How do I schedule a counseling appointment?,health_wellness
+327,How do I check out of my room at the end of the year?,housing_dining
+328,How do I request a note-taker as an accommodation?,health_wellness
+329,Can I connect my gaming console to the campus network?,technology_support
+330,Why hasn't my Pell Grant shown up on my account yet?,financial_aid
+331,Why was I charged for a parking permit on my bill?,billing_payments
+332,Can someone review my resume?,career_services
+333,Are there any clubs for computer science students?,campus_life
+334,Does RSU accept AP or CLEP credit?,admissions
+335,Where is the Student Union?,campus_life
+336,How do I get mental health support after hours?,health_wellness
+337,Is there a health clinic on campus?,health_wellness
+338,What are the admission requirements for international students?,admissions
+339,Can I borrow a calculator from the library?,library_tutoring
+340,Can I get financial aid for summer classes?,financial_aid
+341,Are mock interviews available?,career_services
+342,Who do I call if I locked my keys in my car?,parking_safety
+343,Can I start as a new freshman in the spring semester?,admissions
+344,I used to be a student at RSU. How do I reapply?,admissions
+345,Can I take a class pass/fail?,registration
+346,How do I apply for a work-study job?,financial_aid
+347,My parents' income changed a lot this year. Can my aid be adjusted?,financial_aid
+348,How do I join intramural sports?,campus_life
+349,Does RSU host a career fair?,career_services
+350,Do I need my advisor's approval before I can enroll?,registration
+351,Is online tutoring available for RSU Online students?,library_tutoring
+352,Where can I get tested if I think I'm sick?,health_wellness
+353,Can I repeat a course to replace my grade?,registration
+354,How do I forward my RSU email to my personal email?,technology_support
+355,I live in southeast Kansas. Can I qualify for in-state tuition?,admissions
+356,How will I receive the leftover money on my account after aid pays?,billing_payments
+357,Will my classes be dropped if I don't pay?,billing_payments
+358,Do I need to complete loan entrance counseling before my loan is disbursed?,financial_aid
+359,How do I enroll in an internship course for credit?,registration
+360,What questions should I ask an employer at the end of an interview?,career_services
